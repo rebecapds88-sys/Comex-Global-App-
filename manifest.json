@@ -1,0 +1,22 @@
+{
+  "name": "Comex Aduana AI", 
+  "short_name": "Comex Aduana", 
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Aduana IA é o seu especialista em comércio exterior que tem como objetivo simplificar e analisar a legislação aduaneira e de comex, oferecendo soluções práticas e técnicas para sua atuação.", 
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
